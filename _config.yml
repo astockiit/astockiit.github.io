@@ -28,7 +28,7 @@ twitter_username: astockiit
 github_username:  astockiit
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
