@@ -21,11 +21,11 @@
 title: astockiit
 email: aidenchn@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An awesome description. 
+  Official website of astockiit
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: astockiit
-github_username:  astockiit
+github_username: astockiit
 
 # Build settings
 theme: minima
